@@ -53,11 +53,11 @@
 Картинки
 --------
 
-![Альт текст](https://i.ytimg.com/vi/J3R3Qto1Jvw/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBqcIJkztfWDL2AeSA--D5c9QL_JQ&usqp=CCk)
+![Альт текст](baggiestjeans.jpg)
 
 ![логотип](https://i.ytimg.com/vi/J3R3Qto1Jvw/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBqcIJkztfWDL2AeSA--D5c9QL_JQ&usqp=CCk "Подсказка")
 
-[![клик по картинке](https://i.ytimg.com/vi/J3R3Qto1Jvw/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBqcIJkztfWDL2AeSA--D5c9QL_JQ&usqp=CCk)](https://i.ytimg.com/vi/J3R3Qto1Jvw/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBqcIJkztfWDL2AeSA--D5c9QL_JQ&usqp=CCk)
+[![клик по картинке](baggiestjeans.jpg)](https://i.ytimg.com/vi/J3R3Qto1Jvw/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBqcIJkztfWDL2AeSA--D5c9QL_JQ&usqp=CCk)
 
 Цитата
 ------
